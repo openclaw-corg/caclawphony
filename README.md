@@ -1,3 +1,5 @@
+![Caclawphony banner](docs/assets/readme-banner.jpg)
+
 # Caclawphony
 
 Caclawphony is an automated PR triage, review, and merge pipeline for [openclaw/openclaw](https://github.com/openclaw/openclaw). It connects a Linear project board to coding agents (Codex) via [Symphony](https://github.com/openai/symphony), turning each PR into a tracked issue that flows through a multi-stage pipeline with human gates between stages.
